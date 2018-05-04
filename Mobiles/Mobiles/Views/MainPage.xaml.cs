@@ -12,5 +12,7 @@ namespace Mobiles.Views
 		{
 			InitializeComponent ();
 		}
-	}
+
+       
+    }
 }

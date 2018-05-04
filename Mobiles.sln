@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mobiles.iOS", "Mobiles\Mobi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mobiles.UWP", "Mobiles\Mobiles.UWP\Mobiles.UWP.csproj", "{0561EDE7-5030-4272-89D1-9B7E070B76E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mobiles", "Mobiles\Mobiles\Mobiles.csproj", "{C7A99039-ED0A-4A53-993E-EBA61ABA7F63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mobiles", "Mobiles\Mobiles\Mobiles.csproj", "{C7A99039-ED0A-4A53-993E-EBA61ABA7F63}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
